@@ -1,3 +1,3 @@
 # hello-world
 
-I like Python
+Thanks for viewing my profile
